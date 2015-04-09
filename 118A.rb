@@ -1,0 +1,1 @@
+puts gets.downcase.gsub(/[aoyeui]/, '').gsub(/(\w)/, '.\1')
