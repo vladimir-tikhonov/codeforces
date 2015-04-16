@@ -10,7 +10,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="codeforces.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -395,7 +394,11 @@
       <created>1429198448495</created>
       <updated>1429198448495</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rm idea files [2]">
+      <created>1429198571749</created>
+      <updated>1429198571749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -440,7 +443,8 @@
     </option>
     <MESSAGE value="rm idea files" />
     <MESSAGE value="New solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="New solutions" />
+    <MESSAGE value="rm idea files [2]" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm idea files [2]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
